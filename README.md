@@ -101,6 +101,7 @@ Aðeins er leyfilegt að nota eftirfarandi yfirlýsingar í CSS:
 * `height`
 * `left`
 * `line-height`
+* `list-style`
 * `margin-*`
 * `max-height`
 * `max-width`
