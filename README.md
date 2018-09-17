@@ -52,7 +52,7 @@ Fyrirmynd notar eftirfarandi bil:
 
 ![](utlit/mobile.png)
 
-Fyrirsagnir sem liggja ofan á texta skulu hafa _protection_ á bakvið sig sem fara yfir alla myndina. Þetta _protection_ skal vera 80% gegnsætt og alveg hvítt á litinn.
+Fyrirsagnir sem liggja ofan á myndum skulu hafa _protection_ á bakvið sig sem fara yfir alla myndina. Þetta _protection_ skal vera 80% gegnsætt og alveg hvítt á litinn.
 
 Þar sem texti er allur í hástöfum á ekki að breyta texta í HTML skjali heldur nota CSS.
 
