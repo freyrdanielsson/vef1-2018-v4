@@ -10,7 +10,7 @@ Gefið er HTML skjal með öllum texta ásamt CSS skrá sem _resettar_ margin og
 Sækja þarf tvær leturgerðir á Google Font og tengja við verkefni:
 
 * `IM Fell DW Pica`, regular
-* `Merriweather`, regular og regular italic
+* `Merriweather`, regular, regular italic og bold 700
 
 Gefin er fyrirmynd sem sýnir fyrsta part af verkefni, part í miðju og neðsta part:
 
